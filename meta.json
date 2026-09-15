@@ -1,0 +1,73 @@
+{
+  "templateKey": "general_business",
+  "heroVariant": "tactile-editorial",
+  "serviceLayout": "numbered-list",
+  "ctaStyle": "outline",
+  "paletteSeed": 0,
+  "heroSeed": 0,
+  "copySeed": 0,
+  "artDirection": {
+    "key": "artisan-bakery-editorial",
+    "label": "Contemporary French artisan bakery — tactile editorial",
+    "rationale": "Warm, tactile, editorial treatment for a bakery/patisserie: oversized serif type, a hand-stamped maker's mark instead of a generic icon badge, paper-grain texture instead of gradients or particles, and a menu-board services list instead of icon cards.",
+    "motionPolicy": "tactile",
+    "selectionReason": "art-direction concept match on category \"bakery\""
+  },
+  "visualSystem": {
+    "key": "artisan-bakery-editorial",
+    "label": "Contemporary French artisan bakery — tactile editorial",
+    "dark": false,
+    "cardStyle": "editorial-tactile",
+    "ctaLayout": "split-image",
+    "selectionReason": "art-direction concept match on category \"bakery\""
+  },
+  "motionPreset": {
+    "key": "minimal-slow-reveal",
+    "label": "Minimal Luxury Slow Reveal",
+    "selectionReason": "visual system default (artisan-bakery-editorial → minimal-slow-reveal)",
+    "contentGated": false
+  },
+  "experimentalPreset": null,
+  "selectionSignals": {
+    "servicesCount": 4,
+    "imagePoolCount": 0,
+    "hasRelevantImagery": false
+  },
+  "resolvedVisualDirection": {
+    "palette_source": "art_direction",
+    "palette_key": "artisan-bakery-editorial",
+    "palette": {
+      "key": "artisan-bakery-editorial",
+      "primary": "#5b3a24",
+      "primaryDark": "#33200f",
+      "accent": "#c17f3f",
+      "textDark": "#2a1c11",
+      "textOnPrimary": "#faf1e4",
+      "bgLight": "#faf3e8",
+      "bgAlt": "#f1e2cb",
+      "border": "#e6d2b3",
+      "radius": "2px",
+      "ctaStyle": "outline",
+      "headingFont": "Fraunces",
+      "bodyFont": "Inter",
+      "googleFonts": "Fraunces:opsz,wght@9..144,600..900|Inter:wght@400;500;600"
+    },
+    "hero_variant": "tactile-editorial",
+    "section_style": "boxed",
+    "image_category": "bakery",
+    "matched_keywords": [],
+    "visual_system": "artisan-bakery-editorial",
+    "visual_system_label": "Contemporary French artisan bakery — tactile editorial",
+    "visual_system_reason": "art-direction concept match on category \"bakery\"",
+    "motion_preset": "minimal-slow-reveal",
+    "motion_preset_label": "Minimal Luxury Slow Reveal",
+    "motion_preset_reason": "visual system default (artisan-bakery-editorial → minimal-slow-reveal)",
+    "motion_preset_content_gated": false,
+    "services_count": 4,
+    "image_pool_count": 0,
+    "has_relevant_imagery": false,
+    "experimental_preset": null,
+    "experimental_preset_label": null,
+    "experimental_preset_reason": null
+  }
+}
